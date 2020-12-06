@@ -9,9 +9,9 @@
  > 
 > 🚫 Not Opted to Hire
  > 
-> 📜 9 Public Repositories
+> 📜 9 Public Repositories 
  > 
-> 🔑 11 Private Repositories 
+> 🔑 11 Private Repositories  
 
 📊 **This Week I Spent My Time On** 
 
