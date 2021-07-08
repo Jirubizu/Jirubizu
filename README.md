@@ -19,16 +19,18 @@
 ⌚︎ Time Zone: Europe/London
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+Python                   1 hr 11 mins        █████████████████████░░░░   85.13% 
+Other                    11 mins             ███░░░░░░░░░░░░░░░░░░░░░░   14.03% 
+Bash                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.84%
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  1 hr 23 mins        █████████████████████████   100.0%
 
 💻 Operating System: 
-No Activity Tracked This Week
+Linux                    1 hr 23 mins        █████████████████████████   100.0%
 
 ```
 
 
- Last Updated on 07/07/2021
+ Last Updated on 08/07/2021
 <!--END_SECTION:waka-->
