@@ -19,17 +19,16 @@
 ⌚︎ Time Zone: Europe/London
 
 💬 Programming Languages: 
-Python                   1 hr 53 mins        █████████████████████░░░░   86.32% 
-HTML                     18 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.68%
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  2 hrs 11 mins       █████████████████████████   100.0%
+No Activity Tracked This Week
 
 💻 Operating System: 
-Linux                    2 hrs 11 mins       █████████████████████████   100.0%
+No Activity Tracked This Week
 
 ```
 
 
- Last Updated on 08/08/2021
+ Last Updated on 09/08/2021
 <!--END_SECTION:waka-->
