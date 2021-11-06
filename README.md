@@ -3,7 +3,7 @@
 
 **🐱 My GitHub Data** 
 
-> 🏆 0 Contributions in the Year 2021
+> 🏆 95 Contributions in the Year 2021
  > 
 > 📦 110.3 kB Used in GitHub's Storage 
  > 
@@ -30,5 +30,5 @@ Linux                    0 secs              ███████████�
 ```
 
 
- Last Updated on 05/11/2021
+ Last Updated on 06/11/2021
 <!--END_SECTION:waka-->
