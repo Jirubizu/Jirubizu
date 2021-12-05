@@ -1,9 +1,9 @@
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
 
 **🐱 My GitHub Data** 
 
-> 🏆 95 Contributions in the Year 2021
+> 🏆 96 Contributions in the Year 2021
  > 
 > 📦 110.3 kB Used in GitHub's Storage 
  > 
@@ -30,5 +30,5 @@ No Activity Tracked This Week
 ```
 
 
- Last Updated on 30/11/2021
+ Last Updated on 05/12/2021
 <!--END_SECTION:waka-->
