@@ -19,16 +19,17 @@
 ⌚︎ Time Zone: Europe/London
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+Rust                     25 mins             ████████████████░░░░░░░░░   64.89% 
+Markdown                 14 mins             ████████░░░░░░░░░░░░░░░░░   35.11%
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  39 mins             █████████████████████████   100.0%
 
 💻 Operating System: 
-No Activity Tracked This Week
+Linux                    39 mins             █████████████████████████   100.0%
 
 ```
 
 
- Last Updated on 18/01/2022
+ Last Updated on 21/01/2022 18:39:35 UTC
 <!--END_SECTION:waka-->
