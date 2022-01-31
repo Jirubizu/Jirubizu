@@ -1,6 +1,4 @@
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-218%20hrs%2044%20mins-blue)
-
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
 
 **🐱 My GitHub Data** 
@@ -21,17 +19,16 @@
 ⌚︎ Time Zone: Europe/London
 
 💬 Programming Languages: 
-Python                   15 mins             ████████████████████████░   99.1% 
-Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.9%
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  15 mins             █████████████████████████   100.0%
+No Activity Tracked This Week
 
 💻 Operating System: 
-Linux                    15 mins             █████████████████████████   100.0%
+No Activity Tracked This Week
 
 ```
 
 
- Last Updated on 30/01/2022 18:40:13 UTC
+ Last Updated on 31/01/2022 18:39:22 UTC
 <!--END_SECTION:waka-->
