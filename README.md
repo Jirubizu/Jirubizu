@@ -1,15 +1,15 @@
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-3-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-2-blue)
 
 **🐱 My GitHub Data** 
 
-> 🏆 14 Contributions in the Year 2022
+> 🏆 16 Contributions in the Year 2022
  > 
 > 📦 110.9 kB Used in GitHub's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
-> 📜 21 Public Repositories 
+> 📜 22 Public Repositories 
  > 
 > 🔑 13 Private Repositories  
  > 
@@ -30,5 +30,5 @@ No Activity Tracked This Week
 ```
 
 
- Last Updated on 08/04/2022 18:43:34 UTC
+ Last Updated on 14/04/2022 18:40:49 UTC
 <!--END_SECTION:waka-->
