@@ -3,7 +3,7 @@
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-orange)
 
-**📊 Global GitHub data** 
+**📊 My GitHub data** 
 
 ```text
 🏆 24 contributions in 2022
@@ -31,5 +31,5 @@ No Activity Tracked This Week
 ```
 
 
- Last Updated on 12/06/2022 07:56:25 UTC
+ Last Updated on 12/06/2022 07:58:18 UTC
 <!--END_SECTION:waka-->
