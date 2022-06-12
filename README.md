@@ -1,21 +1,20 @@
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-218%20hrs%2044%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-0-orange)
 
-**🐱 My GitHub Data** 
+**📊 Global GitHub data** 
 
-> 🏆 24 Contributions in the Year 2022
+```text
+🏆 24 contributions in 2022
+
+📦 118.6 kB used in GitHub's storage 
+
+📜 25 Public Repositories 
+
+🔑 13 Private Repositories  
  > 
-> 📦 118.6 kB Used in GitHub's Storage 
- > 
-> 🚫 Not Opted to Hire
- > 
-> 📜 25 Public Repositories 
- > 
-> 🔑 13 Private Repositories  
- > 
-📊 **This Week I Spent My Time On** 
+📊 **This week I spent my time on** 
 
 ```text
 ⌚︎ Time Zone: Europe/London
@@ -32,5 +31,5 @@ No Activity Tracked This Week
 ```
 
 
- Last Updated on 12/06/2022 07:35:24 UTC
+ Last Updated on 12/06/2022 07:36:59 UTC
 <!--END_SECTION:waka-->
