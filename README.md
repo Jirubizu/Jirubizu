@@ -21,18 +21,16 @@
 ⌚︎ Time Zone: Europe/London
 
 💬 Programming Languages: 
-TypeScript               4 mins              ███████████████████████░░   95.2% 
-Vue.js                   0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   4.8% 
-Markdown                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.0%
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  4 mins              █████████████████████████   100.0%
+No Activity Tracked This Week
 
 💻 Operating System: 
-WSL                      4 mins              █████████████████████████   100.0%
+No Activity Tracked This Week
 
 ```
 
 
- Last Updated on 03/07/2022 23:00:00 UTC
+ Last Updated on 03/07/2022 23:01:44 UTC
 <!--END_SECTION:waka-->
