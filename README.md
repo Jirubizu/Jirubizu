@@ -21,16 +21,17 @@
 ⌚︎ Time Zone: Europe/London
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+Rust                     1 hr 11 mins        █████████████████████████   99.95% 
+TOML                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.05%
 
 🔥 Editors: 
-No Activity Tracked This Week
+CLion                    1 hr 12 mins        █████████████████████████   100.0%
 
 💻 Operating System: 
-No Activity Tracked This Week
+Windows                  1 hr 12 mins        █████████████████████████   100.0%
 
 ```
 
 
- Last Updated on 11/08/2022 18:52:18 UTC
+ Last Updated on 12/08/2022 18:44:38 UTC
 <!--END_SECTION:waka-->
