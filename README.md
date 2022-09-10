@@ -21,17 +21,16 @@
 ⌚︎ Time Zone: Europe/London
 
 💬 Programming Languages: 
-Rust                     36 mins             ███████████████████████░░   93.79% 
-TOML                     2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   6.21%
+No Activity Tracked This Week
 
 🔥 Editors: 
-Neovim                   38 mins             █████████████████████████   100.0%
+No Activity Tracked This Week
 
 💻 Operating System: 
-WSL                      38 mins             █████████████████████████   100.0%
+No Activity Tracked This Week
 
 ```
 
 
- Last Updated on 10/09/2022 23:01:37 UTC
+ Last Updated on 10/09/2022 23:03:23 UTC
 <!--END_SECTION:waka-->
