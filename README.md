@@ -1,11 +1,11 @@
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-225%20hrs%202%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-225%20hrs%2037%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 **🐱 My GitHub Data** 
 
-> 🏆 39 Contributions in the Year 2022
+> 🏆 40 Contributions in the Year 2022
  > 
 > 📦 134.6 kB Used in GitHub's Storage 
  > 
@@ -26,11 +26,30 @@ No Activity Tracked This Week
 🔥 Editors: 
 No Activity Tracked This Week
 
+🐱‍💻 Projects: 
+No Activity Tracked This Week
+
 💻 Operating System: 
 No Activity Tracked This Week
 
 ```
 
+**I Mostly Code in C#** 
 
- Last Updated on 19/09/2022 12:53:16 UTC
+```text
+C#                       7 repos             ██████░░░░░░░░░░░░░░░░░░░   25.93% 
+Python                   6 repos             █████░░░░░░░░░░░░░░░░░░░░   22.22% 
+C++                      3 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   11.11% 
+Rust                     3 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   11.11% 
+JavaScript               2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   7.41%
+
+```
+
+
+**Timeline**
+
+![Chart not found](https://raw.githubusercontent.com/Jirubizu/Jirubizu/master/charts/bar_graph.png) 
+
+
+ Last Updated on 19/09/2022 17:52:32 UTC
 <!--END_SECTION:waka-->
