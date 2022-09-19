@@ -1,5 +1,5 @@
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-225%20hrs%2037%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-225%20hrs%2046%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -51,5 +51,5 @@ JavaScript               2 repos             █░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/Jirubizu/Jirubizu/master/charts/bar_graph.png) 
 
 
- Last Updated on 19/09/2022 17:56:09 UTC
+ Last Updated on 19/09/2022 17:58:57 UTC
 <!--END_SECTION:waka-->
