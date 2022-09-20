@@ -1,7 +1,7 @@
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-225%20hrs%2046%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-225%20hrs%202%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-12-blue)
 
 **🐱 My GitHub Data** 
 
@@ -21,16 +21,26 @@
 ⌚︎ Time Zone: Europe/London
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+Other                    43 mins             ███████████████░░░░░░░░░░   60.0% 
+Rust                     20 mins             ███████░░░░░░░░░░░░░░░░░░   28.21% 
+Python                   7 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   10.63% 
+GitIgnore file           0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.9% 
+TOML                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.13%
 
 🔥 Editors: 
-No Activity Tracked This Week
+Browser                  43 mins             ███████████████░░░░░░░░░░   60.0% 
+CLion                    21 mins             ███████░░░░░░░░░░░░░░░░░░   29.25% 
+VS Code                  7 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   10.63% 
+Zsh                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.12%
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+AnagramFinder            43 mins             ███████████████░░░░░░░░░░   60.0% 
+Tabler                   28 mins             ██████████░░░░░░░░░░░░░░░   39.88% 
+Terminal                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.12%
 
 💻 Operating System: 
-No Activity Tracked This Week
+Windows                  1 hr 12 mins        █████████████████████████   99.88% 
+Linux                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.12%
 
 ```
 
@@ -51,5 +61,5 @@ JavaScript               2 repos             █░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/Jirubizu/Jirubizu/master/charts/bar_graph.png) 
 
 
- Last Updated on 19/09/2022 18:08:55 UTC
+ Last Updated on 20/09/2022 18:50:20 UTC
 <!--END_SECTION:waka-->
