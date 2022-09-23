@@ -1,5 +1,5 @@
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-245%20hrs%2014%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-238%20hrs%2026%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-12-blue)
 
@@ -7,7 +7,7 @@
 
 > 🏆 40 Contributions in the Year 2022
  > 
-> 📦 134.6 kB Used in GitHub's Storage 
+> 📦 134.7 kB Used in GitHub's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -63,5 +63,5 @@ JavaScript               2 repos             █░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/Jirubizu/Jirubizu/master/charts/bar_graph.png) 
 
 
- Last Updated on 22/09/2022 19:03:11 UTC
+ Last Updated on 23/09/2022 18:52:52 UTC
 <!--END_SECTION:waka-->
